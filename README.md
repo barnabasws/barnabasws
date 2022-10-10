@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/barnabasws">
-        <img src="https://lanyard-profile-readme.vercel.app/api/754029353691512843?bg=0d1117&borderRadius="/>
+        <img src="https://lanyard-profile-readme.vercel.app/api/754029353691512843"/>
     </a>
 </p>
 
